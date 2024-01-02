@@ -63,8 +63,8 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
   <script type="text/javascript" src="plugins/google-map/gmap.js"></script>
   <!-- Custom Script -->
-  <script src="js/custom.js"></script>
-  <script src="js/annyang.js"></script>
-  <script src="js/nav.js"></script>
+  <script src="./js/custom.js"></script>
+  <script src="./js/nav.js"></script>
+  <script src="./js/annyang.js"></script>
 </body>
 </html>
